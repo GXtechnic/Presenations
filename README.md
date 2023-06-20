@@ -14,7 +14,7 @@
 
 ## Network Topology
 
-![Network](./Topology/Network.png)
+![Network Topology](./Topology/Topology_v1.png)
 
 <br>
 
