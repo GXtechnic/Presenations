@@ -1,4 +1,4 @@
-![Logo](./assets/Logo.png)
+![Logo](./Top/Logo.png)
 
 # Welcome to our Presentations repository
 
@@ -20,16 +20,16 @@
 
 ### GlobeX Network Topology
 
-![GlobeX Network Topology](./assets/GlobeXTop.png)
+![GlobeX Network Topology](./Top/GlobeXTop.png)
 
 <br>
 
 ### Green Genius Network Topology
 
-![Green Genius Network Topology](./assets/GreenGenius.png)
+![Green Genius Network Topology](./Top/GreenGenius.png)
 
 <br>
 
 ### Full Network Topology
 
-![Full Network Topology](./assets/FullNetwork.png)
+![Full Network Topology](./Top/FullNetwork.png)
