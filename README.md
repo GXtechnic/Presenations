@@ -18,8 +18,18 @@
 
 <br>
 
+### GlobeX Network Topology
+
 ![GlobeX Network Topology](./Topology/GlobeXTop.png)
 
+<br>
+
+### Green Genius Network Topology
+
 ![Green Genius Network Topology](./Topology/GreenGenius.png)
+
+<br>
+
+### Full Network Topology
 
 ![Full Network Topology](./Topology/FullNetwork.png)
