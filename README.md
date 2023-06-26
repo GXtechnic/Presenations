@@ -6,7 +6,7 @@
 
 <br>
 
-## [Project Presentation PDF](./assets/pdf/)
+## [Project Presentation PDF](./Top/pdf/Seattle_Ops301d8_Final_Team%231.pdf)
 
 ## [Project Presentation- Final Video]()
 
