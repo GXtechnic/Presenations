@@ -6,7 +6,7 @@
 
 <br>
 
-## [Project Presentation Slide Deck (.pdf format)]()
+## [Project Presentation PDF](./assets/Seattle_Ops301d8_Final_Team%231_Presentation_Slides%20(1).pdf)
 
 ## [Project Presentation- Final Video]()
 
